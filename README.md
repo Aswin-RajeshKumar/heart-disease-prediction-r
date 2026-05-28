@@ -10,7 +10,6 @@ This project analyzes a heart disease dataset and compares the performance of KN
 
 ## Methods
 - Exploratory Data Analysis (EDA)
-- Missing value handling
 - Feature selection
 - 5-fold cross-validation
 - ROC/AUC evaluation
